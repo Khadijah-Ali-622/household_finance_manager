@@ -1,0 +1,10 @@
+.dart_tool/
+build/
+.gradle/
+.idea/
+*.iml
+local.properties
+.env
+*.log
+.DS_Store
+node_modules/
